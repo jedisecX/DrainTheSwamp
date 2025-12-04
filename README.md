@@ -68,6 +68,6 @@ Built for researchers, journalists, transparency advocates, and digital archivis
 ### Installation
 
 ```bash
-git clone https://github.com/yourusername/louisiana-pdf-harvester.git
+git clone https://github.com/jedisecx/DrainTheSwamp.git
 cd louisiana-pdf-harvester
 pip install requests beautifulsoup4 tqdm lxml
